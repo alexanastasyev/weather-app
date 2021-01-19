@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="input_location"><font size="18">Введите название города или индекс</font></string>
+    <string name="receive_weather"><font size="20" style="bold">Узнать погоду</font></string>
+    <string name="city">Город: </string>
+    <string name="temp">Температура: </string>
+    <string name="outwhere">На улице: </string>
+    <string name="city_not_found">Город не найден</string>
+    <string name="unhaldled_error">Непредвиденная ошибка</string>
+</resources>
